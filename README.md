@@ -1,6 +1,8 @@
 -----------
  React JS Snippets
 --------
+
+
 | Prefix      | Description |
 | -------:     | ------- |
 | `_i→`       | import empty |

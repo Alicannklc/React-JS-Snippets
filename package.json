@@ -1,0 +1,39 @@
+{
+    "name": "Vscode-Reactjs-Snippets",
+    "displayName": "Reactjs Snippets",
+    "description": "Reactjs Snippets",
+    "version": "1.1.0",
+    "publisher": "alicannklc",
+"engines": {
+    "vscode": "^1.8.0"
+  },
+    "keywords": [
+        "React",
+        "React JS",
+        "React Snippets"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Alicannklc/React-JS-Snippets.git"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "icon": "img/react.jpg",
+    "galleryBanner": {
+        "color": "#b345f1",
+        "theme": "dark"
+    },
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
