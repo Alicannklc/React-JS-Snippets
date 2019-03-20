@@ -1,10 +1,6 @@
-# -React-JS-Snippets
- React JS Snippets
 -----------
  React JS Snippets
 --------
-
-
 | Prefix      | Description |
 | -------:     | ------- |
 | `_i→`       | import empty |
